@@ -1,19 +1,17 @@
-<!-- Banner animado ou imagem de capa -->
+<!-- Banner (substitua pelo link direto do banner no GitHub ou use local se estiver no repositório) -->
 <p align="center">
-  <img src="https://github.com/WebCodeTech/WebCodeTech/assets/banner.jpg" alt="WebCode Banner" />
+  <img src="banner.jpeg" alt="WebCode Banner" />
 </p>
 
-<h1 align="center">🚀 WebCode Tech</h1>
-<p align="center">Conectamos sua ideia ao mundo digital</p>
 <p align="center">
-  <a href="[https://github.com/Ramon-24](https://github.com/WebCodeTech)">
-    <img alt="Estatísticas do GitHub de Webcode Tech" src="https://github-readme-stats.vercel.app/api?username=WebCodeTech&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true" height="175"/>
+  <a href="https://github.com/WebCodeTech">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WebCodeTech&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true" height="175"/>
   </a>
-
-  <a href="https://github.com/Ramon-24">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ramon-24&theme=custom&border_radius=5&dates=FFFFFF&background=0A192F&ring=1B67A4&fire=1B67A4&currStreakLabel=1B67A4&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&stroke=1B67A4&border_color=1B67A4" height="175"/>
+  <a href="https://github.com/WebCodeTech">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=WebCodeTech&theme=custom&border_radius=5&dates=FFFFFF&background=0A192F&ring=1B67A4&fire=1B67A4&currStreakLabel=1B67A4&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&stroke=1B67A4&border_color=1B67A4" height="175"/>
   </a>
 </p>
+
 ---
 
 ## 🧠 Quem somos
@@ -24,10 +22,10 @@ A **WebCode Tech** é uma equipe jovem, criativa e apaixonada por tecnologia. Co
 
 ## 🌟 Nossos serviços
 
-- 💻 **Sites e landing pages responsivas**
-- 📱 **Aplicativos mobile com FlutterFlow**
-- 🎨 **Identidade visual e social media design**
-- 🎥 **Vídeos comerciais e animações**
+- 💻 **Criação de sites e landing pages responsivas**
+- 📱 **Desenvolvimento de aplicativos mobile com FlutterFlow**
+- 🎨 **Identidade visual e design para redes sociais**
+- 🎥 **Vídeos comerciais e animações promocionais**
 - 🛠️ **Manutenção de computadores e suporte técnico**
 - 📈 **Consultoria digital e gestão de redes sociais**
 
@@ -35,58 +33,61 @@ A **WebCode Tech** é uma equipe jovem, criativa e apaixonada por tecnologia. Co
 
 ## 🧩 Tecnologias que usamos
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-7D3AFB?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FlutterFlow-7D3AFB?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Projetos em andamento
 
-- ✅ Aplicativo de gerenciamento para a **Barbearia Brothers** (Protótipo em FlutterFlow)
-- 🧠 Sistema de agendamento online
-- 🎯 Projetos visuais para atletas e marcas regionais
-- 📣 Criação de identidade visual e anúncios para redes sociais
+- ✅ Aplicativo de agendamento para a **Barbearia Brothers**
+- 🧠 Sistema de gestão para serviços locais
+- 🎯 Identidades visuais personalizadas para atletas e empresas
+- 📣 Publicações e vídeos animados para redes sociais
 
 ---
 
-## 🧠 Nosso diferencial
+## 🌍 Nosso diferencial
 
-> Pensamos como empreendedores: entregamos mais do que visual. Entregamos **estratégia, função e resultado real**.
+> Pensamos como empreendedores. Entregamos mais que estética: entregamos **resultado**.
 
-- Profissionais multidisciplinares
-- Desenvolvimento rápido com foco local
-- Atendimento humanizado e personalizado
-
----
-
-## 📍 Onde estamos
-
-> **Ibiapina - CE**  
-> Rua Miguel Sabino Gomes, 401  
-> Bairro Raimundo Linhares
-
-📞 (88) 99435-9926  
-📧 webcode.empresa@gmail.com  
-🌐 [WebCode no LinkedIn](https://linkedin.com/company/webcode1)  
-📷 [Instagram: @webcode1](https://instagram.com/webcode1)
+- 💡 Foco em identidade visual e usabilidade
+- ⚙️ Equipe multidisciplinar com atendimento personalizado
+- 🚀 Desenvolvimento ágil com estratégia e inovação
 
 ---
 
-## 🤝 Entre em contato
+## 📍 Localização
 
-Estamos abertos a parcerias, freelas e projetos colaborativos. Se você tem uma ideia ou deseja elevar o nível da sua presença digital, fale com a gente!
+**📌 Endereço:**  
+Rua Miguel Sabino Gomes, 401  
+Bairro Raimundo Linhares – Ibiapina/CE
+
+**📞 Contato:**  
+(88) 99435-9926  
+✉️ [webcode.empresa@gmail.com](mailto:webcode.empresa@gmail.com)
+
+**🔗 Redes Sociais:**  
+[Instagram: @webcode1](https://instagram.com/webcode1)  
+[LinkedIn: WebCode Tech](https://linkedin.com/company/webcode1)
+
+---
+
+## 🤝 Vamos conversar?
+
+Estamos abertos a parcerias, freelas e projetos colaborativos. Se você tem uma ideia ou deseja fortalecer sua presença digital, conte com a WebCode!
 
 <p align="center">
-  <img src="https://github.com/WebCodeTech/WebCodeTech/assets/Webcode Tech Oficial.jpeg" alt="Logo" width="150"/>
+  <img src="Webcode Tech Oficial.jpeg" alt="Logo WebCode" width="150"/>
 </p>
 
 <p align="center">
-  <b>Feito com ❤️ pela equipe WebCode Tech</b>
+  <strong>Feito com ❤️ por <a href="https://github.com/WebCodeTech">WebCode Tech</a></strong>
 </p>
-
----
 
