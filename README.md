@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/WebCode Tech">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WebCode Tech&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true" height="175"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WebCodeTech&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true" height="175"/>
   </a>
   <a href="https://github.com/WebCode Tech">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=WebCodeTech&theme=custom&border_radius=5&dates=FFFFFF&background=0A192F&ring=1B67A4&fire=1B67A4&currStreakLabel=1B67A4&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&stroke=1B67A4&border_color=1B67A4" height="175"/>
