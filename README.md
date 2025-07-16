@@ -1,6 +1,6 @@
 <!-- Banner animado ou imagem de capa -->
 <p align="center">
-  <img src="https://github.com/WebCodeTech/WebCodeTech/assets/your-banner.gif" alt="WebCode Banner" />
+  <img src="https://github.com/WebCodeTech/WebCodeTech/assets/banner.jpg" alt="WebCode Banner" />
 </p>
 
 <h1 align="center">🚀 WebCode Tech</h1>
