@@ -81,7 +81,7 @@ A **WebCode Tech** é uma equipe jovem, criativa e apaixonada por tecnologia. Co
 Estamos abertos a parcerias, freelas e projetos colaborativos. Se você tem uma ideia ou deseja elevar o nível da sua presença digital, fale com a gente!
 
 <p align="center">
-  <img src="https://github.com/WebCodeTech/WebCodeTech/assets/logo-webcode.png" alt="Logo" width="150"/>
+  <img src="https://github.com/WebCodeTech/WebCodeTech/assets/Webcode Tech Oficial.jpeg" alt="Logo" width="150"/>
 </p>
 
 <p align="center">
